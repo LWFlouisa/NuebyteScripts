@@ -1,0 +1,2 @@
+(enc "Hello Example Script")
+(gcc 16 3)

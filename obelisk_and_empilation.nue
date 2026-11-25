@@ -1,0 +1,9 @@
+(enc "Hello Obelisk")
+
+# Append genetic traits to the self-optimizing stack.
+(obe3 red_hair green_eyes pale_skin)
+(obe3 black_hair yellow_eyes medium_skin)
+(sca)
+
+# Empile the combination of three numbers.
+(empstr3 7 6 -5)

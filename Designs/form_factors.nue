@@ -1,0 +1,7 @@
+# Form Factor
+(enc "Form Factor")
+(bytepre :robot_dog robot_dire_wolf_design :berger_guillotine a_guillotine_made_in_1871 :catapult a_roman_catepult_relying_on_gravity)
+(dms 7)
+# Tile Prediction
+(enc "Tile Prediction")
+(bytepre :wooden_slab a_slab_made_out_of_wood :stone_brick_slab a_slab_made_out_of_stone_brick :baked_sand a_block_made_out_of_baked_sand)

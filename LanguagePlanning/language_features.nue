@@ -1,0 +1,4 @@
+(bytepre :osv object_first_word_order :sov subject_first_word_order :vos verb_first_word_order)
+(dms 7)
+(bytepre :pgram parle_grammaire :ntupe nihongotupelo_liste :grammar_liste un_liste_avec_deux_les_phrases)
+(dms 7)

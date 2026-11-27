@@ -1,0 +1,6 @@
+(enc "Compiled Languages")
+(bytepre :zig zig_language :crystllang crystal_lang :c the_C_language)
+(enc "Interpreted Languages")
+(bytepre :ruby ruby_language :lua lua_language :python python_language)
+(enc "Logic Programming")
+(bytepre :prolog prolog_language :gprolog gprolog_language :lisp lisp_based_language)

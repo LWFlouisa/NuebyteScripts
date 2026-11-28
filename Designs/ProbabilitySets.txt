@@ -1,0 +1,26 @@
+[ :catecombs,                 an_ancient_catecomb_of_wires_and_computer_parts, 0.007702871343749999 ]
+[ :mountain_tops,                               a_view_from_the_mountain_tops, 0.008535037500000000 ] 
+[ :prairie_town,                                          a_town_in_a_prairie, 0.008108285625000000 ]
+[ :neo_paris,                                two_window_overlook_of_neo_paris, 0.608984250000000000 ] 
+[ :mountain_village,                            a_village_in_the_mountainside, 0.308984249999999960 ] 
+[ :catecombs_second_floor,    an_ancient_catecomb_of_wires_and_computer_parts, 0.308984249999999960 ]
+[ :nuclear_winter,                  a_wide_angle_shot_of_a_nuclear_winterland, 0.008108285625000000 ]
+[ :neo_tokyo,                                  a_window_overlook_of_neo_tokyo, 0.008108285625000000 ] 
+[ :deep_catecombs,            an_ancient_catecomb_of_wires_and_computer_parts, 0.608984250000000000 ]
+[ :mountain_tops,                               a_view_from_the_mountain_tops, 0.458984250000000000 ] 
+[ :robot_graveyard,       a_graveyard_with_a_half_buried_fleet_of_real_robots, 0.608984250000000000 ]
+[ :highest_mountain_top,                a_view_from_the_highest_mountain_tops, 0.008535037500000000 ]
+[ :grassland,                                   an_overlook_of_the_grasslands, 0.007702871343749999 ]
+
+## Highest Probability
+:deep_catecombs_in_neo_paris, :deep_catecombs_with_robot_graveyard 0.370861816748
+
+## Medium Probability
+:catecombs_second_floor_in_neo_paris, :mountain_village_robot_graveyard, 0.188166541748
+
+## Medium Low Porbability
+:deep_catecombs_during_nuclear_winter, 0.00493781824013
+
+## Lowest Probability
+:prairie_town_in_mountain_tops, 0.00006245700809878
+:catecombs_in_grassland, 0.000059334269384
